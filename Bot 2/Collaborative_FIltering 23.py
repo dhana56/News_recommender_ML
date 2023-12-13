@@ -8,7 +8,7 @@ warnings.filterwarnings("ignore")
 
 
 
-news = pd.read_csv("C:\\Users\\dhana\\OneDrive\\Desktop\\Back_end _part (2)\\Back_end _part\\MegaZord.csv")
+news = pd.read_csv("MegaZord.csv")
 
 
 #randomly generating ratings
